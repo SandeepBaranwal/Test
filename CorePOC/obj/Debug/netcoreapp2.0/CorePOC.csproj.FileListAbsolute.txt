@@ -1,0 +1,10 @@
+C:\Projects\POC\CorePOC\obj\Debug\netcoreapp2.0\CorePOC.csproj.CoreCompileInputs.cache
+C:\Projects\POC\CorePOC\obj\Debug\netcoreapp2.0\CorePOC.AssemblyInfoInputs.cache
+C:\Projects\POC\CorePOC\obj\Debug\netcoreapp2.0\CorePOC.AssemblyInfo.cs
+C:\Projects\POC\CorePOC\bin\Debug\netcoreapp2.0\CorePOC.deps.json
+C:\Projects\POC\CorePOC\bin\Debug\netcoreapp2.0\CorePOC.runtimeconfig.json
+C:\Projects\POC\CorePOC\bin\Debug\netcoreapp2.0\CorePOC.runtimeconfig.dev.json
+C:\Projects\POC\CorePOC\bin\Debug\netcoreapp2.0\CorePOC.dll
+C:\Projects\POC\CorePOC\bin\Debug\netcoreapp2.0\CorePOC.pdb
+C:\Projects\POC\CorePOC\obj\Debug\netcoreapp2.0\CorePOC.dll
+C:\Projects\POC\CorePOC\obj\Debug\netcoreapp2.0\CorePOC.pdb
